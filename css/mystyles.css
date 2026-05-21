@@ -1,0 +1,61 @@
+.raycenter{
+    text-align: center;
+    color: darkgray;
+    background-color: antiquewhite;
+}
+
+.textcenter{
+        text-align: center;
+}
+
+.ab4{
+    text-align: center;
+    background-color: pink;
+    border: 5px;
+    border-radius:15px; 
+    padding: 20px 20px 20px 20px ;
+    margin: -40px auto 0 auto ;
+    width: 80%;
+    overflow: auto;
+}
+a.edu1link{
+    color:gray;
+    padding: 0 30px;
+    border-radius: 50px ;
+    background-color: antiquewhite;
+}
+
+a.edu1link:hover{
+    background-color:brown;
+    color: white;
+}
+
+a.edu2link{
+    color:gray;
+    padding: 0 30px;
+    border-radius: 50px ;
+    background-color: antiquewhite;
+}
+
+a.edu2link:hover{
+    background-color:brown;
+    color: white;
+}
+
+.raygo{
+    font-size: 50px;
+    text-align: center;
+}
+
+section#about{
+    background-color: #FCF5F7;
+    background-image:url(../assets/img/bg.jpg) ;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div h1.mb-5.textcenter{
+    color: gray;
+}
