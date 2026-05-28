@@ -59,3 +59,13 @@ section#about{
 div h1.mb-5.textcenter{
     color: gray;
 }
+
+
+
+
+.noto-serif-tc- {
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
