@@ -1,6 +1,11 @@
 .raycenter{
     text-align: center;
-    color: darkgray;
+    color: rgb(95, 122, 180);
+    background-color: antiquewhite;
+}
+
+.raynocenter{
+    color: rgb(95, 122, 180);
     background-color: antiquewhite;
 }
 
@@ -19,7 +24,7 @@
     overflow: auto;
 }
 a.edu1link{
-    color:gray;
+    color:rgb(128, 128, 128);
     padding: 0 30px;
     border-radius: 50px ;
     background-color: antiquewhite;
@@ -56,16 +61,48 @@ section#about{
     background-size: cover;
 }
 
+section#contactme{
+    background-color: #FCF5F7;
+    background-image:url(../assets/img/bg.jpg) ;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 div h1.mb-5.textcenter{
-    color: gray;
+    color: rgb(255, 255, 255);
 }
 
 
 
 
-.noto-serif-tc- {
+
+.noto-serif-tc-{
   font-family: "Noto Serif TC", serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 400;
   font-style: normal;
 }
+
+.tyttw-size{
+    font-size: 125%;
+}
+
+.bg{
+    background-color: #688d9c;
+}
+
+.cm{
+    width: 100%;
+    font-size: auto;
+}
+
+.blue{
+    color: rgb(197, 241, 255);
+}
+
+.black{
+    color: black;
+}
+
